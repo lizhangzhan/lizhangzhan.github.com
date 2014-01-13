@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lizhangzhan.github.io/sitemap.xml 
