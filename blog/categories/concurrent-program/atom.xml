@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Concurrent Program | 立章博客]]></title>
   <link href="http://lizhangzhan.github.io/blog/categories/concurrent-program/atom.xml" rel="self"/>
   <link href="http://lizhangzhan.github.io/"/>
-  <updated>2014-01-25T17:05:30+08:00</updated>
+  <updated>2014-01-25T17:16:16+08:00</updated>
   <id>http://lizhangzhan.github.io/</id>
   <author>
     <name><![CDATA[立章 ]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introduction to Multithread Program]]></title>
-    <link href="http://lizhangzhan.github.io/blog/2014/01/23/dummy-introduction-to-support-vector-machine/"/>
+    <link href="http://lizhangzhan.github.io/blog/2014/01/23/dummy-introduction-to-threads/"/>
     <updated>2014-01-23T17:06:42+08:00</updated>
-    <id>http://lizhangzhan.github.io/blog/2014/01/23/dummy-introduction-to-support-vector-machine</id>
+    <id>http://lizhangzhan.github.io/blog/2014/01/23/dummy-introduction-to-threads</id>
     <content type="html"><![CDATA[<h2>1. thread 简介</h2>
 
 <p>多线程程序允许多个单独的程序或线程并行的运行。这些线程可以修改和访问相同的共享变量， 而每个线程也都有自己的局部变量。</p>
