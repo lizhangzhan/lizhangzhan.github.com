@@ -5,8 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-lizhangzhan(立章), earned master's degree in compute sicence and technology
-from BeiHang University in May 12, 2011, more than six years working experiences
+lizhangzhan(立章),  got master's degree in compute sicence and technology
+from BeiHang University in March 12, 2011, more than six years working experiences
 in software development and machine learning
 </p>
 
