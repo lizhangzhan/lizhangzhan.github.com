@@ -32,4 +32,5 @@ in software development and machine learning
 
 <ul>
 	<li><a href="https://github.com/">Online Learning</a></li>
+	<li><a href="https://github.com/lizhangzhan/documents/blob/master/cv_en.pdf">CV</a></li>
 </ul>
