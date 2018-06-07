@@ -15,7 +15,7 @@ in software development and machine learning
 <ul> 
 <li>2011/03 - 2014/01, Oracle, Software Engineer</li>
 <li>2014/03 - 2015/04, ByteDance, Senior Algorithm Engineer</li>
-<li>2015/06 - 2017/06, Tencent, Senior Research Engineer</li>
+<li>2015/06 - present, Tencent, Senior Research Engineer</li>
 </ul>
 
 <h2>Skills</h2>
