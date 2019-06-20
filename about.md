@@ -32,5 +32,6 @@ in software development and machine learning
 
 <ul>
 	<li><a href="https://github.com/">Online Learning</a></li>
-	<li><a href="https://github.com/lizhangzhan/documents/blob/master/cv_en.pdf">CV</a></li>
+	<li><a href="https://github.com/lizhangzhan/documents/blob/master/cv_cn.pdf">中文简历</a></li>
+	<li><a href="https://github.com/lizhangzhan/documents/blob/master/cv_en.pdf">英文简历</a></li>
 </ul>
